@@ -138,7 +138,7 @@ if __name__ == '__main__':
 ```
 
 ## Output:
-![alt text](image.png)
+![alt text](image.png) 
 
 
 ## Result:
